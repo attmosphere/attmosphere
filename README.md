@@ -1,6 +1,18 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
+Meu nome é Kayke e sou estudante de Sistemas de Informação. 🎓
+
+Sou interessado em:
+- Desenvolvimento backend
+- Sistemas operacionais
+- Segurança da Informação
+
+Tecnologias/linguagens que conheço:
+- Python 🐍
+- Linux 🐧
+- Git 🗃️
+- C, básico
+  <!--
 **attmosphere/attmosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
