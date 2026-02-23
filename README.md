@@ -12,6 +12,7 @@ Tecnologias/linguagens que conheço:
 - Linux 🐧
 - Git 🗃️
 - C, básico
+- SQL, básico
   <!--
 **attmosphere/attmosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
