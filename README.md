@@ -9,6 +9,7 @@ Sou interessado em:
 
 Tecnologias/linguagens que conheço:
 - Python 🐍
+  - FastAPI 🌩️
 - Linux 🐧
 - Git 🗃️
 - C, básico
