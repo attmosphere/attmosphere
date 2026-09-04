@@ -1,4 +1,5 @@
 ## Olá! 👋
+![](https://komarev.com/ghpvc/?username=attmosphere&color=red)
 
 Meu nome é Kayke e sou estudante de Sistemas de Informação. 🎓
 
