@@ -8,14 +8,14 @@ Sou interessado em:
 - Sistemas operacionais
 - Segurança da Informação
 
-Tecnologias/linguagens que conheço:
-- Python 🐍
+Tecnologias:
+- **Python** 🐍
   - FastAPI 🌩️
-- Linux 🐧
-  - I use arch btw 
-- Git 🗃️
-- C, básico
-- SQL, básico
+- **Linux** 🐧
+  - *I use arch btw*
+- **Git** 🗃️
+- **C**, básico
+- **SQL**, básico
   <!--
 **attmosphere/attmosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
