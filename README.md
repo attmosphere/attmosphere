@@ -4,7 +4,7 @@
 Meu nome é Kayke e sou estudante de Sistemas de Informação. 🎓
 
 Sou interessado em:
-- Desenvolvimento backend
+- Desenvolvimento backend/fullstack
 - Sistemas operacionais
 - Segurança da Informação
 
@@ -12,6 +12,7 @@ Tecnologias/linguagens que conheço:
 - Python 🐍
   - FastAPI 🌩️
 - Linux 🐧
+  - I use arch btw 
 - Git 🗃️
 - C, básico
 - SQL, básico
